@@ -1,0 +1,129 @@
+body{
+    background: #f8f8f8;
+}
+.header-menu{
+    background:#f8f8f8; 
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    
+}
+.buy-now {
+  background-color: #ff589b;
+}
+.buy-now:hover{
+    background-color: #ff589b;
+    color: #fff;
+}
+
+.slide-bg {
+  background-color: #feeae9;
+  border-radius: 10px;
+  margin-top: 25px;
+}
+
+.carousel-item {
+  padding: 20px 60px;
+}
+
+.carousel-indicators .active {
+  opacity: 1;
+  background-color: #ff589b;
+}
+.carousel-control-prev,
+.carousel-control-next{
+    background-color: #ff589b;
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    border-radius: 50%;
+}
+.carousel-control-prev{
+    left: 0%;
+}
+.carousel-control-next{
+    right: 0%;
+}
+
+.price {
+    color: #ff589b;
+    padding-bottom: 12px;
+}
+.icon{
+    margin-left: 5px;
+}
+
+.cat1{
+    background-image: linear-gradient(45deg, #ff9c35, #ffd019);
+}
+.cat2{
+    background-image: linear-gradient(45deg, #ff589b, #ff136f);
+}
+.cat3{
+    background-image: linear-gradient(45deg, #4289ff, #3f07f8);
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.catagories h1{
+    color: #fff;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    background: #ffffff;
+    border: #ffffff;
+    margin: 0 20px; 
+    border-radius: 5px;
+}
+.shoes{
+    margin-top: 50px;
+    background: #f5f5f5;
+}
+.shoes button{
+    margin: 20px 0;
+    
+}
+.shoes h3{
+    padding: 50px 20px;
+}
+.backpack{
+    margin-top: 50px;
+    background: #f5f5f5;
+}
+.backpack button{
+    margin-bottom: 20px;
+    
+}
+.backpack h3{
+    padding: 50px 20px;
+    margin-top: -50px;
+}
+.card-footer{
+    border: #ffffff;
+    background: #ffffff;
+}
+#contactus{
+    height: 300px;
+    margin-top: 50px;
+}
+#contactus h6{
+    color: grey;
+    padding: 20px 0;
+}
+button, input {
+    overflow: visible;
+    padding: 7px;
+    margin-top: -4px;
+    border: none !important;
+    border-radius: 5px;
+}
+input:focus { outline: none; }
+
+footer p{
+    text-align: center;
+    margin-top: 50px;
+}
